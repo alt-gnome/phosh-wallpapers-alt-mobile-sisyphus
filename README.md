@@ -1,4 +1,4 @@
-# Phosh Wallpapers ALT Mobile (Sisyphus)
+# Wallpapers ALT Mobile (Sisyphus)
 
 <a href="https://t.me/altmobile_channel">
   <img alt="Static Badge" src="https://img.shields.io/badge/Channel-blue?style=flat&logo=telegram">
@@ -8,7 +8,7 @@
   <img alt="Static Badge" src="https://img.shields.io/badge/Chat-blue?style=flat&logo=telegram">
 </a>
 
-Phosh wallpapers and other artwork for the ALT Mobile
+Wallpapers for the ALT Mobile
 
 ## License
 
@@ -19,8 +19,8 @@ The authors are placed in the AUTHORS file.
 ### Getting the source
 
 ```sh
-git clone https://github.com/alt-gnome/phosh-wallpapers-alt-mobile-sisyphus.git
-cd phosh-wallpapers-alt-mobile-sisyphus
+git clone https://github.com/alt-gnome/wallpapers-alt-mobile-sisyphus.git
+cd wallpapers-alt-mobile-sisyphus
 ```
 
 ### Installing
